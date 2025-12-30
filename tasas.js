@@ -1,5 +1,5 @@
 var tasas = {
-    'USD': { value: 291.35, symbol: 'Bs', conversion: 291.35, displaySymbol: '$' },
-    'EUR': { value: 342.93, symbol: 'Bs', conversion: 342.93, displaySymbol: '€' },
-    'USDT': { value: 482.86, symbol: 'Bs', conversion: 482.86, displaySymbol: '₮' }
+    'USD': { value: 298.14, symbol: 'Bs', conversion: 298.14, displaySymbol: '$' },
+    'EUR': { value: 351.24, symbol: 'Bs', conversion: 351.24, displaySymbol: '€' },
+    'USDT': { value: 556.77, symbol: 'Bs', conversion: 556.77, displaySymbol: '₮' }
 };
